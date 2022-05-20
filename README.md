@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [github.com](https://github.com/Senuka072/-Fylo-landing-page-with-two-column-layout.git)
+- Live Site URL: [netlify.com](https://fylo-landing-page-senuka-solution.netlify.app/)
 
 ## My process
 
